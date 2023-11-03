@@ -1,0 +1,38 @@
+.bg{
+
+    background-color: red;
+}
+.text{
+    color:yellow
+}
+.name{
+    background-color:blueviolet
+}
+.text2{
+    background-color:blue
+}
+.text3{
+    background-color:aqua
+}
+.text4{
+    color:rgb(57, 57, 197)
+}
+.text5{
+    background-color:rgb(12, 225, 12)
+}
+.main{
+    color:rgb(227, 35, 35)
+}
+.lists{
+    background-color:yellow
+}
+.texts{
+    background-color:black ; color:white
+
+}
+.links{
+    color:blue ; font-size: 23px;
+}
+.lists2{
+    background-color:yellow
+}
